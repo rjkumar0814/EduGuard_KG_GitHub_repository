@@ -7,7 +7,7 @@ disease management**.
 ## Repository status
 
 This repository contains the **aggregate results reported in the manuscript**
-and a clearly labelled illustrative sample schema.
+and a clearly labelled sample schema.
 
 It does **not** contain the protected student-level school-health dataset.
 
@@ -26,7 +26,7 @@ It does **not** contain the protected student-level school-health dataset.
 
 ## Data
 
-`data/sample_labels_illustrative.csv` is synthetic and is included only
+`data/sample_labels.csv` is synthetic and is included only
 to demonstrate the schema. It must not be used as the empirical study
 dataset.
 
