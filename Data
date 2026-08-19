@@ -1,0 +1,14 @@
+# Data
+
+The repository distinguishes between **reported aggregate results** and
+**Sample data**.
+
+`sample_labels.csv` is a small synthetic/example dataset
+showing the intended schema. It is NOT the study dataset and must not be
+described as observed study data.
+
+The article reports aggregate cohort statistics and aggregate performance
+results, but the individual-level student-day dataset and the complete
+infectiousness-labeling rule are not included in the manuscript. Raw
+student-level data should therefore only be uploaded if the data custodian
+and ethics approval explicitly permit sharing.
