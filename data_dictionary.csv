@@ -1,0 +1,6 @@
+field,type,definition,publication_note
+student_id,identifier,Student identifier; must be de-identified before publication,Do not upload real identifiers
+school_day,time,Chronological school-day index,Required for temporal split
+infectiousness_label,outcome,0 = not classified as potentially infectious; 1 = potentially infectious,Exact rule is not specified in article and must be documented from the original labeling protocol
+reference_decision_code,outcome,1=attend without restriction; 2=attend with precautions; 3=isolate at school; 4=isolate at home,Guideline-derived reference action
+model_probability,prediction,"Predicted infectiousness probability in [0,1]",Must come from held-out predictions for true reproducibility

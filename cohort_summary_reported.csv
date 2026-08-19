@@ -1,0 +1,14 @@
+metric,value
+students,742.0
+school_days,148.0
+student_day_observations,109816.0
+student_days_present_pct,81.1
+student_days_absent_pct,18.9
+student_days_with_any_symptom,19842.0
+potentially_infectious_student_days,12723.0
+potentially_infectious_pct,11.6
+clinician_confirmed_diagnoses_pct,9.0
+mean_daily_close_contacts,14.3
+median_daily_contacts,13.0
+maximum_daily_contacts,32.0
+mean_classroom_contact_density,11.8

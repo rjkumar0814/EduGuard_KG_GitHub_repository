@@ -1,0 +1,5 @@
+model,attend_without_restriction_pct,attend_with_precautions_pct,isolate_at_school_pct,isolate_at_home_pct
+Rule-based system,35,18,22,25
+Contact-based model,38,22,18,22
+LSTM-EHR model,40,25,16,19
+EduGuard-KG,44,30,14,12

@@ -1,0 +1,6 @@
+model,auroc,auprc,sensitivity,specificity,f1_score,auroc_95ci
+Rule-based system,0.71,0.28,0.62,0.81,0.45,0.69--0.73
+Logistic regression,0.78,0.33,0.64,0.8,0.5,0.76--0.80
+Contact-based model,0.8,0.37,0.7,0.78,0.53,0.78--0.82
+LSTM-EHR model,0.83,0.39,0.68,0.79,0.55,0.81--0.85
+EduGuard-KG,0.89,0.48,0.74,0.81,0.61,0.87--0.91

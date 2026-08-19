@@ -1,0 +1,5 @@
+reference_class,predicted_class,count
+Non-infectious,Non-infectious,824
+Non-infectious,Infectious,74
+Infectious,Non-infectious,36
+Infectious,Infectious,91

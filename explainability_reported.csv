@@ -1,0 +1,7 @@
+metric,value
+evaluated_student_day_cases,120.0
+expert_evaluators,3.0
+clinical_plausibility_mean_5,4.2
+guideline_consistency_mean_5,4.4
+decision_support_usefulness_mean_5,4.1
+fleiss_kappa,0.62

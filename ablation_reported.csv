@@ -1,0 +1,6 @@
+model_variant,auroc,auprc,guideline_concordance,normalized_cost
+Full EduGuard-KG,0.89,0.48,0.81,0.7
+Without knowledge graph,0.84,0.41,0.75,0.82
+Without temporal modelling,0.86,0.44,0.77,0.78
+Without guideline reasoning,0.87,0.45,0.72,0.9
+Rule-only baseline,0.71,0.28,0.68,1.0

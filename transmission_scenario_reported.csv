@@ -1,0 +1,5 @@
+model,mean_model_estimated_secondary_infections_per_school_day
+Rule-based system,4.1
+Contact-based model,3.5
+LSTM-EHR model,3.2
+EduGuard-KG,2.4

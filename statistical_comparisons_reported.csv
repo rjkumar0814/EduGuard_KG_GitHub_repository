@@ -1,0 +1,5 @@
+comparison,reported_p_value,median_effect_size
+EduGuard-KG vs rule-based system,<1e-4,0.18
+EduGuard-KG vs logistic regression,<1e-4,0.11
+EduGuard-KG vs contact-based model,<1e-3,0.09
+EduGuard-KG vs LSTM-EHR model,<1e-3,0.06
